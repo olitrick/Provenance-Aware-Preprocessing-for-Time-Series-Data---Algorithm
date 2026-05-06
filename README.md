@@ -49,6 +49,8 @@ Depending on the signal and gap size, the algorithm can use:
 
 **This algorithm is currently under active development and research.**
 
+Example notebooks and demonstrations will be added in future updates.
+
 Features, reconstruction strategies, and parameter behavior may still change as the framework is continuously improved and evaluated on different time series domains.
 
   
